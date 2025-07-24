@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User Story for Lab
-title: ''
+title: User Story
 labels: ''
 assignees: ''
 
